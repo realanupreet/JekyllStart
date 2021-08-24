@@ -1,6 +1,6 @@
 # site settings
-title: Massively
-subtitle: by HTML5 UP
+title: MySite
+subtitle: made using massively
 email: realanupreet@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "jekyllstart" # the subpath of your site, e.g. /blog
@@ -17,13 +17,13 @@ phone: (716) 555-5555
 500px_url:
 facebook_url:
 github_url: https://github.com/realanupreet
-gitlab_url: https://gitlab.com/
+gitlab_url:
 googleplus_url:
-instagram_url:
-linkedin_url: https://www.linkedin.com/
+instagram_url: https://www.instagram.com/real.anupreet/
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/
+twitter_url:
 
 # build settings
 markdown: kramdown
